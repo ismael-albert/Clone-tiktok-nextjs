@@ -16,7 +16,7 @@ function Sidebar(){
         <Links></Links>
         <Links></Links>
         <Links></Links>
-        <Links></Links>
+       
         </InfoContainer>
 
     </Container>
